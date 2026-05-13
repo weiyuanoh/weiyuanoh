@@ -114,7 +114,7 @@ I am open to junior roles where I can contribute, learn quickly, and grow throug
 ---
 
 ## Contact
-
+- [CV](./Wei_Yuan_CV.pdf)
 - LinkedIn: www.linkedin.com/in/wei-yuan-oh
 - Email: weiyuano@andrew.cmu.edu or woh009@e.ntu.edu.sg
 - GitHub: https://github.com/weiyuanoh
