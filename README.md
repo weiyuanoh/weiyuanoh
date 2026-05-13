@@ -8,7 +8,7 @@ I build and test trading ideas from first principles: signal design, backtesting
 
 ## About Me
 
-I am currently studying financial engineering, with a strong interest in quantitative research, trading strategy development, and applied machine learning in markets.
+I am currently studying financial engineering in NTU Singapore, with a strong interest in quantitative research, trading strategy development, and applied machine learning in markets.
 
 In my free time, I enjoy exploring mathematics, especially numerical analysis and multivariate statistics. Outside of finance and math, I am an avid musician and am currently learning jazz.
 
@@ -89,12 +89,12 @@ Applied machine learning and statistical modelling work focused on model interpr
 
 ## Skills
 
-**Programming:** Python, SQL, Git, Linux  
-**Data:** pandas, NumPy, matplotlib, statsmodels  
-**Quantitative Finance:** backtesting, stat-arb strategies, delta-one, derivative pricing 
-**Assets:** equities, crypto, fixed income
-**Machine Learning:** regression, regularization, validation, model interpretation  
-**Tools:** GitHub, AWS, VS Code, WSL, Jupyter, tmux
+- **Programming:** Python, SQL, Git, Linux
+- **Data:** pandas, NumPy, matplotlib, statsmodels
+- **Quantitative Finance:** backtesting, stat-arb strategies, delta-one, derivative pricing
+- **Assets:** equities, crypto, fixed income
+- **Machine Learning:** regression, regularization, validation, model interpretation
+- **Tools:** GitHub, AWS, VS Code, WSL, Jupyter, tmux
 
 ---
 
