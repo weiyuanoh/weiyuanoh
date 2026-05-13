@@ -114,11 +114,11 @@ I am open to junior roles where I can contribute, learn quickly, and grow throug
 ---
 
 ## Contact
-- [CV](./WEI%YUAN%OH.pdf)
-- LinkedIn: www.linkedin.com/in/wei-yuan-oh
-- Email: weiyuano@andrew.cmu.edu or woh009@e.ntu.edu.sg
-- GitHub: https://github.com/weiyuanoh
 
+- [CV](./Wei_YUAN_OH.pdf)
+- LinkedIn: [www.linkedin.com/in/wei-yuan-oh](https://www.linkedin.com/in/wei-yuan-oh)
+- Email: [weiyuano@andrew.cmu.edu](mailto:weiyuano@andrew.cmu.edu) or [woh009@e.ntu.edu.sg](mailto:woh009@e.ntu.edu.sg)
+- GitHub: [https://github.com/weiyuanoh](https://github.com/weiyuanoh)
 ---
 
 > My heart is in the work.
