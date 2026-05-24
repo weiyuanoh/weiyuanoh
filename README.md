@@ -8,9 +8,9 @@ I build and test trading ideas from first principles: signal design, backtesting
 
 ## About Me
 
-I am currently studying financial engineering in NTU Singapore, with a strong interest in quantitative research, trading strategy development, and applied machine learning in markets.
+I am a Master of Financial Engineering student at Nanyang Technological University, Singapore, currently studying at Carnegie Mellon University as part of a joint program with CMU’s Master of Science in Computational Finance.
 
-In my free time, I enjoy exploring mathematics, especially numerical analysis and multivariate statistics. Outside of finance and math, I am an avid musician and am currently learning jazz.
+My interests lie in quantitative research, trading strategy development, and applied machine learning in markets. In my free time, I enjoy exploring probability theory and multivariate statistics, and I am also an avid musician currently learning jazz.
 
 My work is centered around turning market hypotheses into testable research pipelines:
 
